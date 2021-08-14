@@ -1,0 +1,11 @@
+.top-banner{
+    background-color:#264754;
+    height: 698px;
+}
+/* gray sceal  */
+.img-gray{
+    filter: grayscale(100%);
+}
+.purchase-button {
+    background-color: #E76F51 !important ; 
+}
