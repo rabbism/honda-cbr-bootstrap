@@ -6,6 +6,15 @@
 .img-gray{
     filter: grayscale(100%);
 }
+/* pircase button style  */
 .purchase-button {
     background-color: #E76F51 !important ; 
+}
+/* footer item style  */
+.footer-items {
+    height: 230px;
+}
+/* image icon style  */
+.image-icon{
+    width: 100px;
 }
